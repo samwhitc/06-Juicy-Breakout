@@ -1,5 +1,7 @@
 # 06-Juicy-Breakout
 
+Added juicy elements to the brick breaking game.
+
 This is an opportunity for you to implement some of the "juicy" features as demonstrated in the 2012 GDC presentation, "Juice it or Lose it."
 
 I have provided a simple, generic brick breaker game, built in Godot. You can use the presentation as a guide or use your own imagination, but your assignment is to make the game feel more "juicy": kinetic, reactive, physical.
